@@ -1,0 +1,287 @@
+body {
+    margin: 0;
+    padding: 0;
+font-family: 'Cairo', sans-serif;
+
+}
+
+#header {
+    display: block;
+    width: 100%;
+    height: 400%;
+    text-align: center;
+    background-attachment: fixed;
+    overflow: hidden;
+
+}
+
+h1,h2,h3,h4 {
+
+    margin: 0;
+    position: relative;
+}
+
+#header .logo {
+    display: block;
+    margin: 0 auto;
+    margin-top: 0px;
+}
+p.title {
+    font-size: 20px;
+    font-family: 'Cairo', sans-serif;
+    color: #000;
+
+a {
+    border: 1px solid #0080fc;
+    border-radius: 3px;
+    padding: 5px 10px 5px;
+}
+
+html {overflow-x: hidden;}
+
+/* «· Ã«Ê»
+--------------------------- */
+.selectnav {display:none;}
+
+@media screen and (max-width : 1150px){
+
+.container {width:95%;}
+
+overflow: -moz-scrollbars-vertical; overflow-x: hidden; overflow-y: scroll;}
+
+body{position:initial;}
+
+
+
+}
+
+@media screen and (max-width : 1000px){
+
+#nav1 {display:none;}
+#selectnav1 {
+    display: block;
+    border: 0;
+    background: #333;
+    color: #fff;
+    padding: 2px 10px;
+    font-family: 'Cairo', sans-serif;
+    margin-top: 9px;
+    html {overflow-x: hidden;}
+overflow: -moz-scrollbars-vertical; overflow-x: hidden; overflow-y: scroll;}
+
+body{position:initial;}
+}
+#logo {
+    float: none;
+    text-align: center;
+    margin-bottom: 15px;
+width: 100%;
+}
+#ads-header {
+    float: none;
+    text-align: center;
+}
+#nav {
+display:none;
+}
+#selectnav2 {
+    display: block;
+    border: 0;
+font-family: 'Cairo', sans-serif;
+    margin: 10px 10px 0 0;
+    color: #fff;
+    background: #333;
+    padding: 6px 10px;
+    border-radius: 2px;
+}
+.post-wrapper, .sidebar {
+width:100%;
+}
+.sidebar {margin-top:30px;}
+.footer-columen {padding:0!important;width:100%;float:none;margin-bottom:20px;}
+}
+
+@media screen and (max-width : 700px){
+.posts-thumb {
+    width: 100%;
+    float: none;
+    margin-bottom: 10px;
+overflow: -moz-scrollbars-vertical; overflow-x: hidden; overflow-y: scroll;}
+
+body{position:initial;}
+}
+.posts-thumb img {
+    width: 100%;
+}
+.post-share a {
+    width: 100%;
+    margin-bottom: 3px;
+}
+#related-posts li {
+    width: 100%;
+    padding: 0!important;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.countdown-ramadan{
+display: none;
+}
+
+
+
+
+
+
+
+
+
+
+.ads{
+display: none;
+}
+.post-meta-home{
+
+display: none;
+}
+
+}
+a.home {
+    float: right;
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+#abt-random a i, a.home i {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    display: block;
+    text-align: center;
+    border-radius: 50%;
+    color: #fefefe;
+}
+a.home:hover i,#abt-random:hover i{background:#0099cc;transition:all .3s
+}
+.index .post-meta {
+    margin: 8px 0;
+    display: none;
+
+}
+
+.post-outer {
+    float: right;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+    margin-bottom: 20px;
+    margin-left: 13px;
+       font: normal normal 17px flat-jooza;
+    background: #fff;
+}
+#social-media a {
+
+    width: 20px;
+
+}
+
+@media screen and (max-width :  750px){
+.posts-thumb {
+    width: 100%;
+    float: none;
+    margin-bottom: 10px;
+
+body{position:initial;}
+}
+.posts-thumb img {
+    width: 100%;
+}
+.post-share a {
+    width: 100%;
+    margin-bottom: 3px;
+}
+#related-posts li {
+    width: 100%;
+    padding: 0!important;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.countdown-ramadan{
+display: none;
+}
+
+
+
+
+
+
+
+
+
+
+.ads{
+display: none;
+}
+.post-meta-home{
+
+display: none;
+}
+
+}
+a.home {
+    float: right;
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+#abt-random a i, a.home i {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    display: block;
+    text-align: center;
+    border-radius: 50%;
+    color: #fefefe;
+}
+a.home:hover i,#abt-random:hover i{background:#0099cc;transition:all .3s
+}
+.index .post-meta {
+    margin: 8px 0;
+    display: none;
+
+}
+
+.post-outer {
+    float: right;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+    margin-bottom: 20px;
+    margin-left: 13px;
+       font: normal normal 17px flat-jooza;
+    background: #fff;
+}
+#social-media a {
+
+    width: 20px;
+
+}
